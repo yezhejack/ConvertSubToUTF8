@@ -1,0 +1,8 @@
+ConvertSubToUTF8.py
+README
+setup.py
+ConvertSubToUTF8.egg-info/PKG-INFO
+ConvertSubToUTF8.egg-info/SOURCES.txt
+ConvertSubToUTF8.egg-info/dependency_links.txt
+ConvertSubToUTF8.egg-info/requires.txt
+ConvertSubToUTF8.egg-info/top_level.txt
